@@ -1,5 +1,10 @@
 # Computer Vs Computer Bar Game
 
+## Demo
+
+https://github.com/aditya23043/CvC_BarGame/assets/66688960/4dffd926-741e-4ef4-bf9b-3dce2b955c13
+
+
 ## Dependencies
 - adafruit-ampy
 - minicom (optional)
